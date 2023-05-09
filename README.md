@@ -54,4 +54,24 @@ las margenes, los colores  etc.
 
 # 2 menu 1
 
+### paso a paso
+
+- agrgamos un  div de navegacion y otro de menutoggle.
+- luego tenemos una lista donde tiene el primer elemento.
+- un span que viene siendo donde se agregan los iconos.
+- segundo elemento activo que es home, se mostrara  acontinuacion.
+
+![home](/img/home.png "home")
+
+## style.css
+
+- lo primero que tenemos que hacer, es agregar el tipo de letra deseado.
+- le siguen las margenes.
+- el fondo, con el color que mas te guste.
+- seguimos con el div de navegacion, en el vamos a codificar para que la posición no se mueva (fixed).
+- Despues de agregar el fonfo la psoción y todo lo que viene siendo como queremos en el menu e sigue el color en este caso es blanco pero si tu deseas puedes cambiarlo.
+- la transición; necesitamos que sea suave cuando se expanda.
+- lo colocamos en flexible y centramos el texto.
+
+
 ![menu](/img/menu.png "menu")
