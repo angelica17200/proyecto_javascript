@@ -102,7 +102,7 @@ las margenes, los colores  etc.
 
 ![resul](/img/resul.png "resul")  
 
--Tema oscuro
+- Tema oscuro
 
 ![resul2](/img/resul2.png "resul2")  
 
