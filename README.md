@@ -75,3 +75,37 @@ las margenes, los colores  etc.
 
 
 ![menu](/img/menu.png "menu")
+
+# DARK THEME
+
+#### C ambiar de tema claro a oscuro.
+
+- Agregamos en el body un div, tambien una clase que va ser un indicator.
+
+- body: por el lado de los styles, un color de fondo; todo lo que viene siendo la altura, el margen, camibio de tema.
+
+- toggle: viene siendo nuestra palanca, le agregamos una posicion relativa, un display, ancho y alto y bordes de 160px, y ahi se va notando que es un tubo, unos cuantos ajustes para que se pueda vizualizar una sombra decorativa con un box-shadow.
+
+![sombra](/img/sombra.png "sombra")
+
+- segumos con la parte interna que viene siendo el indicator que viene siendo la bolita que indica como su nombre lo dice si el tema es oscuro o claro.
+
+![indicator](/img/indicator.png "indicator")
+
+- capturamos la clase body con js y el toggle, donde se va activar con onclick. Es muy bueno porque ya viene en of y solo toca pasarlo en on.
+
+![js](/img/js.png "js")
+
+### RESULTADO
+
+- Tema claro
+
+![resul](/img/resul.png "resul")  
+
+-Tema oscuro
+
+![resul2](/img/resul2.png "resul2")  
+
+# MENU DESPEGABLE 
+
+-
