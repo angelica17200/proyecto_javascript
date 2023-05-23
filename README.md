@@ -108,4 +108,11 @@ las margenes, los colores  etc.
 
 # MENU DESPEGABLE 
 
--
+- index
+- Se agrego un toggle (palancas) viene siendo el menu, cun sus debidas propiedades.
+
+![toggle](/img/toggle.png "toggle")  
+
+- Cuando la pantalla llega aun minimo de un ancho de 480 px, cambia sus dimensiones y la organizacion de tod el proyecto.
+
+![menuu](/img/menuupng "menuu")
